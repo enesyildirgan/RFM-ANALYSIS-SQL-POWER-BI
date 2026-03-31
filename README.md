@@ -1,7 +1,7 @@
 # SQL ve Power BI ile RFM Analizi Projesi
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=blue)
 
 ## 📖 Proje Hakkında
 Bu proje, OnlineRetail veri seti üzerinden müşteri davranışlarını analiz ederek stratejik segmentasyon oluşturmak amacıyla geliştirilmiştir. Analiz süreci, veritabanı yönetim sisteminde (SQL) verinin işlenmesiyle başlamış ve İş Zekası (Power BI) aracıyla görselleştirilerek tamamlanmıştır.
