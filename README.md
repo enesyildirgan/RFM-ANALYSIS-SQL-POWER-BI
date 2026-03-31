@@ -22,6 +22,13 @@ Müşteri sadakatini ölçmek için kullanılan üç temel metrik temel alınmı
 
 ---
 
+## 📊 Veri Seti Hakkında
+Bu projede kullanılan veriler, İngiltere merkezli bir perakende şirketinin 01/12/2010 ile 09/12/2011 tarihleri arasındaki gerçek işlemlerini içermektedir.
+
+* **Veri Kaynağı:** [Kaggle - Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail?select=OnlineRetail.csv)
+
+---
+
 ## 📈 Proje Çıktıları
 * Müşteri kitlesinin segment bazlı yüzdesel dağılımı belirlendi.
 * En değerli müşteri grubunun toplam cirodaki payı analiz edildi.
