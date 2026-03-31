@@ -36,6 +36,16 @@ Bu projede kullanılan veriler, İngiltere merkezli bir perakende şirketinin 01
 
 ---
 
+## 📊 Power BI Görselleştirme
+Analiz sonuçları Power BI ortamına aktarılarak interaktif bir dashboard oluşturulmuştur.
+
+![Power BI Dashboard](./Screenshots/RFM.png)
+
+
+
+
+---
+
 ## 📂 Proje İçeriği
 * **`/SQL_Scripts`**: Veri hazırlama ve segmentasyon sorguları.
 * **`/PowerBI_Report`**: Projenin `.pbix` formatındaki rapor dosyası.
